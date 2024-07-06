@@ -1,0 +1,197 @@
+.epicfont{
+    width: 64%;
+    font-size: 32px;
+    text-align: center;
+}
+.epicfont1{
+    width: 66%;
+}
+.visitbutton{
+    width: 20%;
+    outline: none;
+    border: none;
+}
+.img-main{
+    width: 68%;
+}
+.card-main{
+    width: 17%;
+}
+.contri-font{
+    width: 51%;
+}
+.rigths{
+    width: 50% !important;
+}
+.cont-font{
+    width: 31%;
+}
+.cont-ring-btn{
+    /* width: 25%; */
+    background:none;
+    width: 250px;
+    height: 38px;
+}
+.contact-btn{
+    width: 250px;
+    height: 38px;
+    border: none;
+
+
+}
+.foot-font{
+    font-size: 12px;
+    margin-top: 150px !important;
+}
+
+@media(max-width:575px){
+    .epicfont{
+        width: 95% !important;
+        font-size: 18px;
+        text-align: justify !important;
+        /* background-color: aqua; */
+    }
+    .epicfont1{
+        width: 95%;
+        text-align: justify !important;
+        /* background-color: aqua; */
+    }
+    .visitbutton{
+        width: 50%;
+        outline: none;
+        border: none;
+    }
+    .img-main{
+        width: 100%;
+    }
+    .card-main{
+        width: 80%;
+    }
+    .contri-font{
+        width: 90% ;
+        text-align: justify !important;
+    }
+    .rigths{
+        width: 100% !important;
+        /* background-color: aqua !important; */
+    }
+    .cont-font{
+        width: 95%;
+        text-align: justify !important;
+    }
+    .cont-ring-btn{
+        /* width: 25%; */
+        background:none;
+        width: 95%;
+        height: 38px;
+    }
+    .contact-btn{
+        width: 95%;
+        height: 38px;
+        border: none;
+    
+    
+    }
+    
+}
+
+@media(min-width: 576px) and (max-width: 875px){
+    .epicfont{
+        width: 95% !important;
+        font-size: 24px ;
+        text-align: justify !important;
+        /* background-color: aqua; */
+    }
+    .epicfont1{
+        width: 95%;
+        text-align: justify !important;
+        /* background-color: aqua; */
+    }
+    .visitbutton{
+        width: 40%;
+        outline: none;
+        border: none;
+    }
+    .img-main{
+        width: 95%;
+    }
+    .card-main{
+        width: 29%;
+    }
+    .contri-font{
+        width: 90% ;
+     
+    }
+    .rigths{
+        width: 75% !important;
+    }
+    .cont-font{
+        width: 70%;
+    }
+
+    .cont-ring-btn{
+        /* width: 25%; */
+        background:none;
+        width: 220px;
+        height: 38px;
+    }
+    .contact-btn{
+        width: 220px;
+        height: 38px;
+        border: none;
+    
+    
+    }
+    
+    
+}
+
+
+@media(min-width: 876px) and (max-width: 1200px){
+    .epicfont{
+        width: 80%;
+        font-size: 30px ;
+   
+    }
+    .epicfont1{
+        width: 80%;
+      
+    }
+    .visitbutton{
+        width: 50%;
+        outline: none;
+        border: none;
+    }
+    .img-main{
+        width: 90%;
+    }
+    .card-main{
+        width: 25%;
+    }
+    .contri-font{
+        width: 80% ;
+      
+    }
+    .rigths{
+        width: 65% !important;
+    }
+    .cont-font{
+        width: 55%;
+    }
+    .cont-ring-btn{
+        /* width: 25%; */
+        background:none;
+        width: 230px;
+        height: 38px;
+    }
+    .contact-btn{
+        width: 230px;
+        height: 38px;
+        border: none;
+    
+    
+    }
+   
+    
+
+}
