@@ -15,19 +15,19 @@ const Contributions = () => {
         <div className="d-flex col-3 flex-column  align-items-center ">
           <span className="text-white fs-2 fw-light">5M</span>
           <span className="text-white text-center fs-6 fw-lighter lh1">
-            Daily User Engagements
+            Daily User <br /> Engagements
           </span>
         </div>
         <div className="d-flex col-4 flex-column   align-items-center">
           <span className="text-white fs-2 fw-light">$500K</span>
           <span className="text-white fs-6 fw-lighter text-center">
-            Revenue Surge for an Platform
+            Revenue Surge for <br /> an Platform
           </span>
         </div>
         <div className="d-flex col-4 flex-column  align-items-center">
           <span className="text-white fs-2 fw-light">10X</span>
           <span className="text-white fs-6 fw-lighter text-center">
-            ROAS on all our marketing campaigns
+            ROAS on all our <br /> marketing campaigns
           </span>
         </div>
       </div>
